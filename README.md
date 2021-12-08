@@ -1,24 +1,4 @@
 # README
+This is a tutorial followed this link
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://rails.devcamp.com/trails/dissecting-rails-5/campsites/forms-rails-5/guides/deep-dive-how-to-build-an-html-form-from-scratch-the-works-with-rails
